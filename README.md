@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="OUR LOGO LINK" style="border-radius: 50px; box-shadow: 0 0 20px #00ffe5, 0 0 30px #00ffe5, 0 0 40px #00ffe5;">
+  <img src="https://github.com/dula9x/PRIME-ALPHA-X-DULA-MD/blob/main/images/PRIME-ALPHA-X-DULA-MD.png?raw=true" style="border-radius: 50px; box-shadow: 0 0 20px #00ffe5, 0 0 30px #00ffe5, 0 0 40px #00ffe5;">
 </p> 
 
 <p align="center">
