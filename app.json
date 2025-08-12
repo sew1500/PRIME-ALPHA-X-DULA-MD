@@ -1,8 +1,8 @@
 {
-  "name": "DANUWA-MD",
-  "description": "Javascript WhatsApp bot made by Danuka Dissanayake",
-  "logo": "https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/DANUWA-MD.png?raw=true",
-  "keywords": ["DANUWA-MD"],
+  "name": "PRIME-ALPHA-X-DULA-MD",
+  "description": "Javascript WhatsApp bot made by PRIME-ALPHA-X-DULA-MD",
+  "logo": "https://github.com/dula9x/PRIME-ALPHA-X-DULA-MD/blob/main/images/PRIME%20ALPHA%20X%20DULA%20MD.png?raw=true",
+  "keywords": ["PRIME-ALPHA-X-DULA-MD"],
   "success_url": "/",
 
   "env": {
@@ -12,12 +12,12 @@
     },  
 
     "ALIVE_IMG": {
-      "description": "Put your alive img here.",
+      "description": "https://github.com/dula9x/PRIME-ALPHA-X-DULA-MD/blob/main/images/PRIME%20ALPHA%20X%20DULA%20MD.png?raw=true",
       "required": true
     },
     
     "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
+      "description": "I'am Alive Now!! PRIME-ALPHA-X-DULA-MD 🤭💗 ආහ් පැටියෝ කොහොමද ?🌝",
       "required": true
     }   
 },
