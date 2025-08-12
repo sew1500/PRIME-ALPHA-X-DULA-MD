@@ -11,10 +11,6 @@
 </p> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hello+How+are+you%3F;Welcome+to+PRIME-ALPHA-X-DULA-MD+WhatsApp+Bot;I'm+alpha and dula md" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <strong>A modern, multi-device WhatsApp bot</strong><br>
   <em>Powered by <a href="https://github.com/WhiskeySockets/Baileys" target="_blank">Baileys</a> — optimized for speed, flexibility, and automation.</em>
 </p>
