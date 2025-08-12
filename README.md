@@ -26,3 +26,10 @@
 **PRIME-ALPHA-X-DULA-MD** is a multi-device WhatsApp bot written in Node.js using the [Baileys](https://github.com/adiwajshing/Baileys) library. It supports QR/Pairing code login, a plugin-based command system, and various media tools such as sticker conversion, song and video downloads, and group management commands.
 
 ---
+
+# GET SESSON ID 
+
+https://replit.com/@dulinanethmira6/PRIME-ALPHA-X-DULA-MD-WEB-PAIR
+
+
+GET SESSON ID AND GOTO CONFIG PASTE YOUR SESSON ID AND SAVE
