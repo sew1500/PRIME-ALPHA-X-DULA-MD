@@ -1,8 +1,8 @@
 {
-  "name": "PRIME-ALPHA-X-DULA-MD",
-  "description": "Javascript WhatsApp bot made by PRIME-ALPHA-X-DULA-MD",
+  "name": "DARK NOVA-XMD V 1.0.0 BETA",
+  "description": "Javascript WhatsApp bot made by sheron elijah and dulina nethmira",
   "logo": "https://github.com/dula9x/PRIME-ALPHA-X-DULA-MD/blob/main/images/PRIME%20ALPHA%20X%20DULA%20MD.png?raw=true",
-  "keywords": ["PRIME-ALPHA-X-DULA-MD"],
+  "keywords": ["DARK Nova-XMD"],
   "success_url": "/",
 
   "env": {
@@ -17,7 +17,7 @@
     },
     
     "ALIVE_MSG": {
-      "description": "I'am Alive Now!! PRIME-ALPHA-X-DULA-MD 🤭💗 ආහ් පැටියෝ කොහොමද ?🌝",
+      "description": "👋 Hellow I'am Alive Now!! DARK NOVA-XMD A SIMPLE WA USER BOT 🤖",
       "required": true
     }   
 },
